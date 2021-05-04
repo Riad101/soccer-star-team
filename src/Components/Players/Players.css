@@ -1,0 +1,14 @@
+img{
+    height: 350px;
+    width: 350px;
+}
+.player-info{
+    width: 22rem;
+    margin: auto;
+}
+
+/* .player-display{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 2em;
+} */
